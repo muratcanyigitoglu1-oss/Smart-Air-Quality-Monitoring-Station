@@ -8,7 +8,7 @@ Bu proje, iç mekan hava kalitesini (CO2, duman, VOC) takip eden, otomatik haval
 - **Sensörler:** MQ-135 (Gaz), MQ-7 (Gaz), DHT22 (Sıcaklık + Nem)
 - **Görselleştirme:** Graphic LCD (OLED)
 - **Haberleşme:** HC-05 Bluetooth Modülü
-- **Kontrol:** Röle Modülü (Fan Kontrolü)
+- **Kontrol:** Röle Modülü (Fan Kontrolü) 
 
 ## Teknik Detaylar
 - **Periferaller:** ADC10 (Gaz sensörleri), Timer_A (DHT22 timing), USCI_B0 (I2C LCD), USCI_A0 (Bluetooth).
