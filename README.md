@@ -15,6 +15,11 @@ Bu proje, iç mekan hava kalitesini (CO2, duman, VOC) takip eden, otomatik haval
 - **İşleyiş:** Sensör verileri okunarak hava kalitesi indeksi hesaplanır. Emoji tabanlı görselleştirme ile (Yeşil/İyi, Kırmızı/Tehlike) anlık durum bilgisi OLED ekrana yansıtılır.
 - **Otomasyon:** Eşik değer aşıldığında fan otomatik olarak devreye girer ve Bluetooth üzerinden push bildirimi gönderilir.
 
+## Donanım ve PCB Tasarımı
+Projenin tüm donanım altyapısı; şematik tasarımlar, PCB yerleşim şemaları ve 3D modelleme görüntüleri tek bir teknik döküman içerisinde birleştirilmiştir. Proje donanım detaylarını incelemek için aşağıdaki dosyayı indirebilirsiniz:
+
+[Proje Donanım ve PCB Dokümantasyonu (PDF)](project_documentation.pdf)
+
 ## Özellikler
 - Gerçek zamanlı hava kalitesi izleme.
 - Emoji tabanlı görsel arayüz.
